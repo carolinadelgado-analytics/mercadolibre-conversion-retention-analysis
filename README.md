@@ -88,3 +88,32 @@ View the complete case study, visualizations, SQL explanations, and business rec
 
 This is an academic case study developed as part of the TripleTen Data Analytics Program using simulated data. It does not represent an analysis commissioned by Mercado Libre.
 
+
+## Project Visualizations
+
+The following charts summarize the main findings of the analysis.
+
+### 1. Overall Conversion Funnel
+
+![Overall Conversion Funnel](images/mercado_libre_conversion_funnel.png)
+
+### 2. Purchase Conversion by Country
+
+![Purchase Conversion by Country](images/mercado_libre_conversion_by_country.png)
+
+### 3. User Retention by Country
+
+![User Retention by Country](images/Mercado_libre_user_retention.png)
+
+### 4. Monthly Cohort Retention
+
+![Monthly Cohort Retention](images/Mercado_libre_user_Retention_by_Cohort.png)
+
+## SQL Analysis Files
+
+Explore the SQL queries used in this project:
+
+1. [Overall Conversion Funnel](sql/01_overall_conversion_funnel.sql)
+2. [Conversion Funnel by Country](sql/02_conversion_by_country.sql)
+3. [User Retention by Country](sql/03_retention_by_country.sql)
+4. [Monthly Cohort Retention](sql/04_monthly_cohort_retention.sql)
